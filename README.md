@@ -14,7 +14,7 @@ Here are some of the projects I've been working on:
 Brief description of project 1.
 
 ### [Classification with academic success using LGBM](https://github.com/yourusername/yourrepository/blob/main/path/to/project2.ipynb)
-![Project 2 Image](https://via.placeholder.com/150)
+![Academic Success EDA](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.png)
 Brief description of project 2.
 
 ### [ML emotions vs social media usage (automl+cluster)](https://github.com/yourusername/yourrepository/blob/main/path/to/project3.ipynb)
