@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Paulo Araya-Santiago! Welcome to my portafolio.
 
 ## 🎓 About Me
-- 🎓 I'm currently studying to work as a Data Analyst using Machine Learning.
+- 🎓 I'm currently studying to work as a Data Analyst using Machine Learning. I have a Data Analyst specilized in Machine Learning professional certificate from Codecademt.
 - 🎥 I'm a major in communications and audiovisual production, in the University of Costa Rica.
 - 📸 Freelance Photographer.
 - 🌐 Fluent in English and Spanish, with some basic German and Portuguese knowledge.
@@ -28,7 +28,7 @@ This project explores the relationship between emotions and social media usage u
 
 ## 🌟 Skills
 - **Languages**: Python, SQL
-- **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML
+- **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML, Matplotlib, Numpy, Pandas, Scikit-Learn, LightGBM, XGBoost, Plotly, NLTK
 - **Interests**: AI, Machine Learning, Data Visualization, Data Analysis
 
 Thanks for stopping by!
