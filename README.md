@@ -9,17 +9,17 @@
 ## 💻 My Projects
 Here are some of the projects I've been working on:
 
-### [Predicting Cancer using GradientBoost](https://github.com/yourusername/yourrepository/blob/main/path/to/project1.ipynb)
+### [Predicting Cancer Using GradientBoost](https://github.com/pauloarayasantiago/portafolio/blob/main/Predicting%20Cancer%20using%20GradientBoost/predicting_cancer_using_gradientboost(portafolio_edition).ipynb)
+![False Negatives Threshold](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Predicting%20Cancer%20using%20GradientBoost/false_negatives_threshold.png)
+This project involves predicting cancer using GradientBoost, with a focus on optimizing the threshold to minimize false negatives.
+
+### [Classification with Academic Success Using LGBM](https://github.com/pauloarayasantiago/portafolio/blob/main/Classification%20with%20academic%20success%20using%20LGBM/classification_with_academic_success_using_lgbm(portafolio_edition).ipynb)
 ![Academic Success EDA](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.jpeg)
-Brief description of project 1.
+This project uses LightGBM to classify academic success based on various features.
 
-### [Classification with academic success using LGBM](https://github.com/yourusername/yourrepository/blob/main/path/to/project2.ipynb)
-![Academic Success EDA](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.png)
-Brief description of project 2.
-
-### [ML emotions vs social media usage (automl+cluster)](https://github.com/yourusername/yourrepository/blob/main/path/to/project3.ipynb)
-![Project 3 Image](https://via.placeholder.com/150)
-Brief description of project 3.
+### [ML Emotions vs Social Media Usage (AutoML + Clustering)](https://github.com/pauloarayasantiago/portafolio/blob/main/ML%20emotions%20vs%20social%20media%20usage%20(automl%2Bcluster)/ml_emotions_vs_social_media_usage_automl_cluster(portafolio_eidtion).ipynb)
+![Clustering Results](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/ML%20emotions%20vs%20social%20media%20usage%20(automl%2Bcluster)/clustering_results.png)
+This project analyzes the relationship between emotions and social media usage using AutoML and clustering techniques.
 
 ## 📫 How to Reach Me
 - Email: [pauloaraya54@gmail.com](mailto:pauloaraya54@gmail.com)
