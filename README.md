@@ -10,7 +10,7 @@
 Here are some of the projects I've been working on:
 
 ### [Predicting Cancer using GradientBoost](https://github.com/yourusername/yourrepository/blob/main/path/to/project1.ipynb)
-![Project 1 Image]([https://github.com/pauloarayasantiago/portafolio/blob/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.png])
+![Project 1 Image]([https://github.com/pauloarayasantiago/portafolio/blob/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.jpeg])
 Brief description of project 1.
 
 ### [Classification with academic success using LGBM](https://github.com/yourusername/yourrepository/blob/main/path/to/project2.ipynb)
