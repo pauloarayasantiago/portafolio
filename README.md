@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Paulo Araya-Santiago! Welcome to my portafolio.
 
+## 🌟 Introduction
+I am a passionate Data Analyst in the making, currently studying to master Machine Learning techniques. My background in communications and audiovisual production, combined with my technical skills, allows me to bring a unique perspective to data analysis and visualization.
+
 ## 🎓 About Me
 - 🎓 I'm currently studying to work as a Data Analyst using Machine Learning. I have a Data Analyst specilized in Machine Learning professional certificate from Codecademt.
 - 🎥 I'm a major in communications and audiovisual production, in the University of Costa Rica.
@@ -30,6 +33,19 @@ This project explores the relationship between emotions and social media usage u
 - **Languages**: Python, SQL
 - **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML, Matplotlib, Numpy, Pandas, Scikit-Learn, LightGBM, XGBoost, Plotly, NLTK
 - **Interests**: AI, Machine Learning, Data Visualization, Data Analysis
+
+## 🏆 Achievements
+- Completed [Codecademy Data Analyst specialized in Machine Learning].
+- Contributed to [Kaggle Playground Series - Season 4, Episode 6].
+
+## 🔭 Currently Learning
+- Advanced Machine Learning techniques., including deeplearning for LLMs.
+- Data Engineering.
+
+  ## 🎯 Goals
+- To contribute to impactful data science projects.
+- To become proficient in deep learning and neural networks.
+- Solve real world issues at large scales using Ai, including but not limited to topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
 
 Thanks for stopping by!
 
