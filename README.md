@@ -4,7 +4,7 @@
 I am a passionate Data Scientist in the making, currently studying to master Machine Learning techniques. My background in communications and audiovisual production, combined with my technical skills, allows me to bring a unique perspective to data analysis and visualization.
 
 ## 🎓 About Me
-- 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specilized in Machine Learning professional certificate from Codecademy.
+- 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specialized in Machine Learning professional certificate from Codecademy.
 - 🎥 I'm a major in communications and audiovisual production, in the University of Costa Rica.
 - 📸 Freelance Photographer.
 - 🌐 Fluent in English and Spanish, with some basic German and Portuguese knowledge.
