@@ -7,7 +7,7 @@ I am a passionate Data Scientist in the making, currently studying to master Mac
 - 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specialized in Machine Learning professional certificate from Codecademy.
 - 🎥 I'm a majoring in communications and audiovisual production at the University of Costa Rica.
 - 📸 Freelance Photographer.
-- 🌐 Fluent in English and Spanish, with some basic German and Portuguese knowledge.
+- 🌐 Fluent in English and Spanish with some basic German and Portuguese knowledge.
 
 ## 💻 My Projects
 Here are some of the projects I've been working on:
