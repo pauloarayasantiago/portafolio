@@ -44,7 +44,7 @@ This project explores the relationship between emotions and social media usage u
 ## 🎯 Goals
 - To contribute to impactful data science projects.
 - To become proficient in deep learning and neural networks.
-- Solve real world issues at large scales using Ai, including but not limited to topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
+- Solve real world issues at large scales using AI, including but not limited to topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
 
 Thanks for stopping by!
 
