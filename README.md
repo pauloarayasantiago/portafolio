@@ -4,10 +4,10 @@
 I am a passionate Data Scientist in the making, currently studying to master Machine Learning techniques. My background in communications and audiovisual production, combined with my technical skills, allows me to bring a unique perspective to data analysis and visualization.
 
 ## 🎓 About Me
-- 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specilized in Machine Learning professional certificate from Codecademy.
-- 🎥 I'm a major in communications and audiovisual production, in the University of Costa Rica.
+- 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specialized in Machine Learning professional certificate from Codecademy.
+- 🎥 I'm a majoring in communications and audiovisual production at the University of Costa Rica.
 - 📸 Freelance Photographer.
-- 🌐 Fluent in English and Spanish, with some basic German and Portuguese knowledge.
+- 🌐 Fluent in English and Spanish with some basic German and Portuguese knowledge.
 
 ## 💻 My Projects
 Here are some of the projects I've been working on:
@@ -44,7 +44,7 @@ This project explores the relationship between emotions and social media usage u
 ## 🎯 Goals
 - To contribute to impactful data science projects.
 - To become proficient in deep learning and neural networks.
-- Solve real world issues at large scales using Ai, including but not limited to topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
+- To solve real world issues at large scales using AI, including, but not limited to, topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
 
 Thanks for stopping by!
 
