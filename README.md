@@ -12,11 +12,15 @@ I am a passionate Data Scientist in the making, currently studying to master Mac
 ## 💻 My Projects
 Here are some of the projects I've been working on:
 
+### [Binary Classification of Insurance Cross Selling Kaggle Playground Series S4E7](Binary-Classification-of-Insurance-Cross-Selling/portafolio_version.ipynb)
+![KLIB Categorical Plot](Binary-Classification-of-Insurance-Cross-Selling/cat_plot.png)
+This project was my favorite so far because it really made me delve into and develop my skills as a Data Scientist. I discovered some interesting libraries like KLIB and Optuna, which I will probably be using in many of my future projects. The dataset was massive and sometimes transformations would make the training set larger than 2GB. This created some difficult contrains on my system and on cloud services when trying to model. It might not have gotten the best results in the Kaggle Competition, but it definetly showcases my skills.
+
 ### [Predicting Cancer Using GradientBoost](https://github.com/pauloarayasantiago/portafolio/blob/main/Predicting%20Cancer%20using%20GradientBoost/predicting_cancer_using_gradientboost(portafolio_edition).ipynb)
 ![False Negatives Threshold](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Predicting%20Cancer%20using%20GradientBoost/false_negatives_threshold.png)
 This project aims to predict cancer using the GradientBoost algorithm. The dataset includes features like age, BMI, physical activity, alcohol intake, gender, smoking habits, family history of cancer, and diagnosis. Key steps involve data preprocessing, exploratory data analysis, and training the GradientBoost model. The focus is on optimizing the model to minimize false negatives, ensuring a balance between sensitivity and specificity. The project concludes with model evaluation and visualization of results.
 
-### [Classification with Academic Success Using LGBM](https://github.com/pauloarayasantiago/portafolio/blob/main/Classification%20with%20academic%20success%20using%20LGBM/classification_with_academic_success_using_lgbm(portafolio_edition).ipynb)
+### [Classification with Academic Success Using LGBM Kaggle Playground Series S4E6](https://github.com/pauloarayasantiago/portafolio/blob/main/Classification%20with%20academic%20success%20using%20LGBM/classification_with_academic_success_using_lgbm(portafolio_edition).ipynb)
 ![Academic Success EDA](https://raw.githubusercontent.com/pauloarayasantiago/portafolio/main/Classification%20with%20academic%20success%20using%20LGBM/academic_success_eda.jpeg)
 This project uses LightGBM (Light Gradient Boosting Machine) to classify academic success based on various features such as age, marriage status, and international status. The notebook includes steps for data visualization, feature engineering, and handling imbalanced classes using SMOTE (Synthetic Minority Over-sampling Technique). The trained LightGBM model is evaluated on a validation set, and predictions are made on test data. This project was done for a Kaggle competition.
 
