@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Paulo Araya-Santiago! Welcome to my portafolio.
+# 👋 Hi, I'm Paulo Araya-Santiago! Welcome to my portfolio.
 
 ## 🌟 Introduction
-I am a passionate Data Analyst in the making, currently studying to master Machine Learning techniques. My background in communications and audiovisual production, combined with my technical skills, allows me to bring a unique perspective to data analysis and visualization.
+I am a passionate Data Scientist in the making, currently studying to master Machine Learning techniques. My background in communications and audiovisual production, combined with my technical skills, allows me to bring a unique perspective to data analysis and visualization.
 
 ## 🎓 About Me
-- 🎓 I'm currently studying to work as a Data Analyst using Machine Learning. I have a Data Analyst specilized in Machine Learning professional certificate from Codecademt.
-- 🎥 I'm a major in communications and audiovisual production, in the University of Costa Rica.
+- 🎓 I'm currently studying to work as a Data Scientist using Machine Learning. I have a Data Science specialized in Machine Learning professional certificate from Codecademy.
+- 🎥 I'm a majoring in communications and audiovisual production at the University of Costa Rica.
 - 📸 Freelance Photographer.
-- 🌐 Fluent in English and Spanish, with some basic German and Portuguese knowledge.
+- 🌐 Fluent in English and Spanish with some basic German and Portuguese knowledge.
 
 ## 💻 My Projects
 Here are some of the projects I've been working on:
@@ -31,21 +31,20 @@ This project explores the relationship between emotions and social media usage u
 
 ## 🌟 Skills
 - **Languages**: Python, SQL
-- **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML, Matplotlib, Numpy, Pandas, Scikit-Learn, LightGBM, XGBoost, Plotly, NLTK
+- **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML, Matplotlib, Numpy, Pandas, Scikit-Learn, LightGBM, XGBoost, Pytorch, Anaconda
 - **Interests**: AI, Machine Learning, Data Visualization, Data Analysis
 
 ## 🏆 Achievements
-- Completed [Codecademy Data Analyst specialized in Machine Learning].
-- Contributed to [Kaggle Playground Series - Season 4, Episode 6].
-
+- Completed [Codecademy Data Science specialized in Machine Learning].
+- Contributed to [Kaggle Playground Series - Season 4, Episode 6]([https://www.kaggle.com/pauloarayasantiago](https://www.kaggle.com/code/pauloarayasantiago/classification-with-academic-success-using-lgbm)).
 ## 🔭 Currently Learning
-- Advanced Machine Learning techniques., including deeplearning for LLMs.
+- Advanced Machine Learning techniques, including deeplearning for LLMs and Reinforcement learning.
 - Data Engineering.
 
-  ## 🎯 Goals
+## 🎯 Goals
 - To contribute to impactful data science projects.
 - To become proficient in deep learning and neural networks.
-- Solve real world issues at large scales using Ai, including but not limited to topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
+- To solve real world issues at large scales using AI, including, but not limited to, topics related to Electric Vehicles, Renewable Energy, and Resource Pipelines.
 
 Thanks for stopping by!
 
