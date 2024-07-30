@@ -41,6 +41,8 @@ This project explores the relationship between emotions and social media usage u
 ## 🏆 Achievements
 - Completed [Codecademy Data Science specialized in Machine Learning].
 - Contributed to [Kaggle Playground Series - Season 4, Episode 6]([https://www.kaggle.com/pauloarayasantiago](https://www.kaggle.com/code/pauloarayasantiago/classification-with-academic-success-using-lgbm)).
+- Contributed multiple notebooks to [Kaggle Playground Series - Season 4, Episode 7](https://www.kaggle.com/code/pauloarayasantiago/ps-s4e07-blend-cbc-lgbm-xgb-0-889)
+
 ## 🔭 Currently Learning
 - Advanced Machine Learning techniques, including deeplearning for LLMs and Reinforcement learning.
 - Data Engineering.
