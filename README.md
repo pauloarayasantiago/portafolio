@@ -34,9 +34,29 @@ This project explores the relationship between emotions and social media usage u
 - Kaggle: [Paulo Araya-Santiago](https://www.kaggle.com/pauloarayasantiago)
 
 ## 🌟 Skills
-- **Languages**: Python, SQL
-- **Tools**: Jupyter Notebook, Google Colab, Git, Microsoft Studio, Seaborn, FLAML, Matplotlib, Numpy, Pandas, Scikit-Learn, LightGBM, XGBoost, Pytorch, Anaconda
-- **Interests**: AI, Machine Learning, Data Visualization, Data Analysis
+- **Languages**: Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Klib), SQL (SSMS, PostgreSQL, BigQuery)
+- **ML Frameworks**: Scikit-Learn, Pytorch, CatBoost, LightGBM, XGBoost, FLAML
+- **Tools**: Power BI, Excel, Git, Azure Cloud Services, Google Cloud Platform
+- **Data Processing**: Feature Engineering, Model Optimization, Statistical Analysis
+
+### Data Science & ML
+- Statistical Analysis & Modeling
+- Feature Engineering
+- Model Optimization
+- AutoML Frameworks
+
+### Data Engineering
+- ETL Pipeline Development
+- Database Management
+- Cloud Services Integration
+- API Development
+
+### Visualization
+- Power BI Dashboard Creation
+- Data Storytelling
+- Interactive Visualizations
+- DAX Measures
+
 
 ## 🏆 Achievements
 - Completed [Codecademy Data Science specialized in Machine Learning].
